@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for proposing a project idea!
+        Thanks for proposing a project idea! Please put a temporary name for your idea in the title line above.
   - type: textarea
     id: name
     attributes:
