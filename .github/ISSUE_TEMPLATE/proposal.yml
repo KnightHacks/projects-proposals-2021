@@ -1,5 +1,5 @@
 name: Proposal
-description: Create a new Idea Proposal
+description: Create a new project proposal
 title: "[Proposal]: "
 labels: [Proposal, Pending]
 body:
@@ -21,16 +21,16 @@ body:
       description: If we need to communicate with you prior to the meeting, we will send you an email.
     validations:
       required: true
-  - type: dropdown
-    id: present
-    attributes:
-      label: Are you interested in presenting your idea at the interest meeting?
-      description: This doesn't have to be final.
-      options:
-        - Yes
-        - No
-    validations:
-      required: true
+#  - type: dropdown
+#    id: present
+#    attributes:
+#      label: Are you interested in presenting your idea at the interest meeting?
+#      description: This doesn't have to be final.
+#      options:
+#        - Yes
+#        - No
+#    validations:
+#     required: true
   - type: textarea
     id: proposal
     attributes:
