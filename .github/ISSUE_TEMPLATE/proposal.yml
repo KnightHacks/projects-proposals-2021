@@ -6,9 +6,33 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for proposing a project idea!
   - type: textarea
-    id: description
+    id: name
+    attributes:
+      label: What is your full name?
+      description: We need to know who to bring up during the interest meeting!
+    validations:
+      required: true
+  - type: textarea
+    id: email
+    attributes:
+      label: What is your Knights email?
+      description: If we need to communicate with you prior to the meeting, we will send you an email.
+    validations:
+      required: true
+  - type: dropdown
+    id: present
+    attributes:
+      label: Are you interested in presenting your idea at the interest meeting?
+      description: This doesn't have to be final.
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
     attributes:
       label: What's your idea about?
       description: What idea are you interested on working on and leading?
