@@ -1,6 +1,4 @@
-### Project Name: TBD
-
-Something that describes the function of your project. This doesn't have to be permanent and can be updated at any time, but it's how we'll reference your proposal for voting!
+### Project Name: Portable Cards
 
 #### Full Name: Elijah Smith
 
