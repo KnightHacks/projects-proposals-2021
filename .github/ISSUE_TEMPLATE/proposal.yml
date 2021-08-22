@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for proposing a project idea! Please put a temporary name for your idea in the title line above.
+        Thanks for proposing a project idea!\nPlease put a temporary name for your idea in the title line above that reflects the scope of the project. We'll use this name to reference your idea when voting!
   - type: textarea
     id: name
     attributes:
@@ -36,7 +36,6 @@ body:
     attributes:
       label: What's your idea about?
       description: What idea are you interested on working on and leading?
-      placeholder: Lay your ideas out!
+      placeholder: For suggestions of what to include, reference the README for this repository.
     validations:
       required: true
-      

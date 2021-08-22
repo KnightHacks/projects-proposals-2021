@@ -12,19 +12,7 @@ Following the interest meeting, attendees will have a week or two to submit a fo
 
 If you were the author of a proposal around which a team is formed, you will automatically be assigned the role of "Team Lead" for the purposes of organization and communication. However, the exact responsibilities and group dynamics will be left up to the discretion of your full group.
 
-Here's the general template we've provided for you to submit your proposal with under the issues tab.
-
-### Full Name: Required
-
-### Knights Email: Required
-
-### Will you be presenting: Yes or No
-
-### What's your idea about?
-
-Here's where you talk about your idea with as many details as you have. Once submitted, you may get new suggestions from interested parties you may want to incorporate, and please feel free to do so!
-
-Here are some topics to cover:
+Here are some suggestions for what to include in your proposal's information section. Once submitted, you may get new suggestions from interested parties you may want to incorporate, and please feel free to do so!
 
 - What is the main purpose of your project?
 - What is the problem you are trying to solve, if there is one (there doesn't have to be!)?
@@ -37,4 +25,4 @@ Here are some topics to cover:
 
 There's no strict length for your proposal and, in many cases, the more detailed your proposal is the better. Our recommendation would be at least two paragraphs worth of information, but there's no expected structure. Try to keep it less than 500-600 words so you don't lose anyone's attention, but you may need any amount less than that. At the interest meeting, you will probably not have much longer than a few minutes to present your proposal, so include here all the information you want interested parties to know and may not be able to get to in your pitch. That way, anyone can reference your proposal on this repository as they are making their decisions.
 
-### Last note: We're including an example proposal in this repository so that you can get a feel for the kind of information we suggest you include in your proposal, but there is no expected structure. Good luck!
+#### ***Last note***: We're including an example proposal in this repository so that you can get a feel for the kind of information we suggest you include in your proposal, but there is no expected structure. Good luck!
