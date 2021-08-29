@@ -31,9 +31,12 @@ body:
         - "No"
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: Write down your proposal idea here!
+  - type: textarea
     id: proposal
+    attributes:
+      label: What's your idea about?
+      description: What idea are you interested on working on and leading?
+      placeholder: Lay your ideas out!
+      placeholder: For suggestions of what to include, reference the README for this repository.
     validations:
       required: true
