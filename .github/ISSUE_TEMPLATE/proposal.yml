@@ -7,14 +7,14 @@ body:
     attributes:
       value: |
         Thanks for proposing a project idea!\nPlease put a temporary name for your idea in the title line above that reflects the scope of the project. We'll use this name to reference your idea when voting!
-  - type: textarea
+  - type: input
     id: name
     attributes:
       label: What is your full name?
       description: We need to know who to bring up during the interest meeting!
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: email
     attributes:
       label: What is your Knights email?
@@ -31,7 +31,7 @@ body:
         - "No"
     validations:
       required: true
-  - type: textarea
+  - type: markdown
     id: proposal
     attributes:
       label: What's your idea about?
