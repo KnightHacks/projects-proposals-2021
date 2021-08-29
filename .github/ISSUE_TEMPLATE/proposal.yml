@@ -32,6 +32,8 @@ body:
     validations:
       required: true
   - type: markdown
+    attributes:
+      value: 'Write down your proposal idea here!
     id: proposal
     validations:
       required: true
