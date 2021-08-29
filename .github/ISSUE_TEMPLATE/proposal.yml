@@ -33,9 +33,5 @@ body:
       required: true
   - type: markdown
     id: proposal
-    attributes:
-      label: What's your idea about?
-      description: What idea are you interested on working on and leading?
-      placeholder: For suggestions of what to include, reference the README for this repository.
     validations:
       required: true
