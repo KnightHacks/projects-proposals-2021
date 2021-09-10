@@ -4,7 +4,7 @@ Thank you for your interest in the KnightHacks projects program. We want to give
 
 ### How do I submit my idea?
 
-Leading up to the interest meeting for this program (yet to be determined when and where), anyone can submit their proposed idea to this repository **as an issue** using the proposal issue template. After submitting, the directors and other interested parties may comment on your proposal to suggest new ideas or help strengthen your proposal. Once submitted, that project proposal is under your ownership, other proposals that are deemed as too similar will be closed.
+Leading up to the interest meeting for this program (Wednesday 9/15 virtually), anyone can submit their proposed idea to this repository **as an issue** using the proposal issue template. After submitting, the directors and other interested parties may comment on your proposal to suggest new ideas or help strengthen your proposal. Once submitted, that project proposal is under your ownership, other proposals that are deemed as too similar will be closed.
 
 You will have the opportunity to present your proposal, if you so choose, at the interest meeting to pitch your idea to attendees interested in joining a team. If you don't have a proposal to pitch or don't feel comfortable speaking to an audience, don't worry! Nobody is required to present their idea at the meeting, and your idea will still be available for anyone who attends to show their interest in.
 
