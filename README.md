@@ -40,4 +40,7 @@ There's no strict length for your proposal and, in many cases, the more detailed
 
 At the interest meeting, you will probably not have much longer than a few minutes to present your proposal, so include here all the information you want interested parties to know and may not be able to get to in your pitch. That way, anyone can reference your proposal on this repository as they are making their decisions.
 
-#### **_Last note_**: We're including an example proposal in this repository so that you can get a feel for the kind of information we suggest you include in your proposal, but there is no expected structure. Good luck!
+#### **_Last notes_**: 
+- We're including an example proposal in this repository so that you can get a feel for the kind of information we suggest you include in your proposal, but there is no expected structure. 
+- Please feel free to propose more than one idea! Nobody will be on more than one team, but other people may find ideas you don't lead interesting and form a team around them!
+- Good luck!
